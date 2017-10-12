@@ -11,7 +11,7 @@
 
     <extension point="xbmc.addon.metadata">
         <summary lang="fr">kodibx Repository</summary>
-        <description lang="fr">Installer vStream</description>
+        <description lang="fr">Installer kodibx</description>
         <summary lang="en">kodibx Repository</summary>
         <description lang="en">Download and install kodibx</description>
         <platform>all</platform>
