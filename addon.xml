@@ -4,7 +4,7 @@
         version="0.0.3"
         provider-name="kodibx">
     <extension point="xbmc.addon.repository" name="kodibx XBMC Addon Repository">
-        <checksum>https://raw.githubusercontent.com/kodibx/repository.kodibx/master/addon.xml.md5</checksum>
+        <checksum>https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml.md5</checksum>
         <info compressed="false">https://raw.githubusercontent.com/kodibx/repository.kodibx/master/addon.xml</info>
         <datadir zip="true">https://github.com/kodibx/kodi-xbmc-addons/raw/master/repo</datadir>
     </extension>
