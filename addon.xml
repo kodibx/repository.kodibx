@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodibx"
         name="kodibx Repository"
-        version="0.0.2"
+        version="0.0.3"
         provider-name="kodibx">
     <extension point="xbmc.addon.repository" name="kodibx XBMC Addon Repository">
-        <checksum>https://raw.githubusercontent.com/kodibx/kodi-xbmx-addons/master/addons.xml.md5</checksum>
-        <info compressed="false">https://raw.githubusercontent.com/kodibx/kodi-xbmx-addons/master/addons.xml</info>
-        <datadir zip="true">https://raw.githubusercontent.com/kodibx/repo</datadir>
+        <checksum>https://raw.githubusercontent.com/kodibx/kodi-xbmc-addons/master/addons.xml.md5</checksum>
+        <info compressed="false">https://raw.githubusercontent.com/kodibx/kodi-xbmc-addons/master/addons.xml</info>
+        <datadir zip="true">https://github.com/kodibxm/kodi-xbmc-addons/raw/master/repo</datadir>
     </extension>
 
     <extension point="xbmc.addon.metadata">
