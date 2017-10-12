@@ -4,9 +4,9 @@
         version="0.0.2"
         provider-name="kodibx">
     <extension point="xbmc.addon.repository" name="kodibx XBMC Addon Repository">
-        <checksum>https://raw.githubusercontent.com/kodibx/kodibx-xbmc-addons/master/addons.xml.md5</checksum>
-        <info compressed="false">https://raw.githubusercontent.com/Kodibx/kodibx-xbmc-addons/master/addons.xml</info>
-        <datadir zip="true">https://github.com/kodibx/kodibx-xbmc-addons/raw/master/repo</datadir>
+        <checksum>https://raw.githubusercontent.com/kodibx/kodi-xbmc-addons/master/addons.xml.md5</checksum>
+        <info compressed="false">https://raw.githubusercontent.com/Kodi/kodibx-xbmc-addons/master/addons.xml</info>
+        <datadir zip="true">https://github.com/kodibx/kodi-xbmc-addons/raw/master/repo</datadir>
     </extension>
 
     <extension point="xbmc.addon.metadata">
